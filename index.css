@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #ffffff;
+  font-family: "Roboto";
+  min-height: 100vh;
+}
+
+.heading {
+  color: #0f172a;
+}
+
+.info-message {
+  background-color: #0b69ff;
+  width: 50vw;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+}
+
+.image-icon {
+  width: 25px;
+  height: 25px;
+  margin: 12px;
+}
+
+.message {
+  margin-top: 12px;
+}
